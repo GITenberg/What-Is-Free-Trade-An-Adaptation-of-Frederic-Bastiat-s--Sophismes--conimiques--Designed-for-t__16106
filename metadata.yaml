@@ -1,0 +1,47 @@
+_repo: What-Is-Free-Trade-An-Adaptation-of-Frederic-Bastiat-s--Sophismes--conimiques--Designed-for-t__16106
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Del Mar, Alexander
+    aliases:
+    - Walter, Emile
+    - Kwang Chang Ling
+    - Mar, Alexander del
+    - Delmar, Alexander
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '38304'
+    url: http://www.gutenberg.org/2009/agents/38304
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Frederic
+    - Bastiat, Claude Frédéric
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+description: ''
+gutenberg_issued: '2005-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16106'
+  lccn: 06003449
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free trade'
+- !lcsh 'Tariff -- United States'
+- !lcc 'HF'
+title: 'What Is Free Trade?
+
+  An Adaptation of Frederic Bastiat''s "Sophismes Éconimiques" Designed for the American
+  Reader'
+url: http://www.gutenberg.org/ebooks/16106
